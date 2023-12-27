@@ -2,3 +2,10 @@ hello world
 I am in master branch
 no no i am in branch1
 hi
+
+
+good morning everyone
+how are you all?
+our branch is organising freshers party to us
+
+my branch is cs
